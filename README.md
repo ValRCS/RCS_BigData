@@ -84,10 +84,16 @@ Note: Possible that some new tools are added while unused ones removed.
 * NLP - Python libraries
 * Sentiment Analysis
 
-## Web Analytics (2 -4 hours)
+## Web Analytics (2-4 hours)
 * Data Collection
 * Navigation Analysis
 * Predictive Analysis
+
+## Business Analytics (2-4 hours)
+
+* PowerBI data visualizations
+* Tableau insights
+
 
 ## GDPR and Big Data (2 hours)
 
