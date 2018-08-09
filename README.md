@@ -1,7 +1,15 @@
 # RCS_BigData
 RCS Big Data Course
 
-## Big Data Course introduces students to practical Big Data use cases including technical setup and business analytics
+## Big Data Course introduces students to practical Big Data use cases including technical setup and business analytics.
+
+### Emphasis on breadth of technologies in Big Data
+
+### Students will be pursuing independent projects depending on their interests.
+
+Prerequisites: Knowledge of Python and Java programming languages is helpful but not required.
+
+Note: Possible that some new tools are added while unused ones removed.
 
 
 ## Big Data base definitions and history (2 Hours)
@@ -20,20 +28,70 @@ RCS Big Data Course
 2. SQL
 3. Data Warehouses and Marts
 4. NoSQL
-5. Alternative bases
+5. Alternative bases(Document,Columnar,Graph et al)
 
-## Hadoop Ecosystem
+## Big Data and its relation to Data Science and Data Mining
+
+### Applications of Machine Learning in Big Data
+
+## Structured vs unstructured data
+
+## building a Big Data processing pipeline (4-6 hours)
+
+* Physical Infrasctructure
+* Security
+* Operational Databases 
+* Organizing Databases
+* Analytics (from tradional to advanced)
+* Visualizations and Reports
+* Applications 
+
+* Virtualization
 
 
 
-## Social Network Analytics (4-8 hours)
+## Apache Hadoop Ecosystem (16-20 hours)
 
-* Intro to graph theory 
-* Graph Databases - Neo4J 
+* HDFS - Hadoop Distributed File System setting up your own clusters
+* HBase - column database
+* Hive - sql  
+
+* writing MapReduce applications/queries
+
+* Apache Spark for analytics
+** Spark GraphX
+** Spark MLib
+** Spark SQL
+
+
+
+
+
+## Social Network Analytics (6-8 hours)
+
+* Intro to graph theory (vertices, edges, cliques, triangles, bipartite graphs and more)
+
+* Graph Databases - **Neo4J** 
 * Social Network Metrics
-* Social Network 
+* Social Network Learning
 * Neighbor classifier
-* EgoNet for social network analysis
-* Gephi - graph vizualization platform
+* **EgoNet** for social network analysis
+* **Gephi** - graph vizualization platform
+* **NetworkX** -  Python library 
+
+## Social Media Analytics (2-4 hours)
+
+* NLP - Python libraries
+* Sentiment Analysis
+
+## Web Analytics (2 -4 hours)
+* Data Collection
+* Navigation Analysis
+* Predictive Analysis
+
+## GDPR and Big Data (2 hours)
+
+* GDPR compliance
+* ethical challenges in Big Data
 
 
