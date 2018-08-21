@@ -1,6 +1,10 @@
 # RCS_BigData
 RCS Big Data Course
 
+### Binder(hosted Jupyter notebooks) Beta
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RCS_BigData/master)
+
+
 ## Big Data Course introduces students to practical Big Data use cases including technical setup and business analytics.
 
 ### Emphasis on breadth of technologies in Big Data
