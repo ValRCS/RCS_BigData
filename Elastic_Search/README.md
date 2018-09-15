@@ -18,3 +18,7 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html
 
 https://eng.revinate.com/2017/01/30/bulk-insert-delete-update-in-elasticsearch.html
 
+
+Crawler for indexing large amount of documents
+https://github.com/dadoonet/fscrawler
+
