@@ -1,5 +1,7 @@
 # Elastic Search
 
+[Elastic](https://www.elastic.co/assets/blt244a845f141977c3/elastic-logo.svg)
+
 https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch
