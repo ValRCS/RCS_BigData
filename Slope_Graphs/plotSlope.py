@@ -167,18 +167,18 @@ def slope(data,
                 lambda el: round(el + 0.1))
             yMark_L = df.groupby(cols[i])[cols[i]].mean().dropna()
             yMark_R = df.groupby(cols[i + 1])[cols[i + 1]].mean().dropna()
-            yMark_L.sort(ascending=False)
-            yMark_R.sort(ascending=False)
+            yMark_L.sort_values(ascending=False)
+            yMark_R.sort_values(ascending=False)
             #print yMark_L
 
             labelsL = df.groupby(yPos_L[cols[i]].values)['__label__'].agg(
                 ', '.join)
             labelsR = df.groupby(yPos_R[cols[i + 1]].values)['__label__'].agg(
                 ', '.join)
-            yPos_L.sort(cols[i], inplace=True)
-            yPos_R.sort(cols[i + 1], inplace=True)
+            yPos_L.sort_values(cols[i], inplace=True)
+            yPos_R.sort_values(cols[i + 1], inplace=True)
 
-            yPos_ = yPos_L.join(yPos_R)  #.sort(cols[i],inplace=True)
+            yPos_ = yPos_L.join(yPos_R)  #.sort_values(cols[i],inplace=True)
 #        if i == 1: 
 #            #print yPos_.T
 #            print labelsL
