@@ -2,4 +2,4 @@
 
 IMDB Data Set
 
-https://www.kaggle.com/utathya/imdb-review-dataset/version/
+https://www.kaggle.com/utathya/imdb-review-dataset
