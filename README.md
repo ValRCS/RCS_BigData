@@ -104,4 +104,5 @@ Note: Possible that some new tools are added while unused ones removed.
 * GDPR compliance
 * ethical challenges in Big Data
 
-
+More Notebooks
+https://github.com/ValRCS/data-science-ipython-notebooks
