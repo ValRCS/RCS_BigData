@@ -14,6 +14,10 @@ Start with https://www.tableau.com/support/releases/desktop/10.0.20
 
 https://community.tableau.com/thread/134663
 
+## Tableau Views and Dashboards
+
+https://onlinehelp.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.html
+
 
 # Python with Tableau 
 
