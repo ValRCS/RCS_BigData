@@ -29,6 +29,10 @@ https://powerbi.microsoft.com/en-us/pricing/
 
 Works well with Office Subscription
 
+## Comparison with Tableau and Qlikview
+
+https://selecthub.com/business-intelligence/tableau-vs-qlikview-vs-microsoft-power-bi/
+
 
 ## Learning Materials, Books
 
