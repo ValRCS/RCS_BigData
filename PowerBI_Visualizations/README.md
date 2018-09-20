@@ -55,6 +55,10 @@ DAX with Power BI
 https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics
 
 
+# Python Integration!
+
+https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/
+
 
 
 
