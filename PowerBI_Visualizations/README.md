@@ -1,5 +1,7 @@
 # Microsoft Power BI
 
+![PowerBI](https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png)
+
 https://powerbi.microsoft.com/en-us/
 
 
