@@ -23,10 +23,32 @@ Data visualizations are more of a data foundation with a pre-fab artistic elemen
 # Power BI is used to make Data Visualizations, not Infographics.
 
 
-## Pricing
+# Pricing
 
 https://powerbi.microsoft.com/en-us/pricing/
 
 Works well with Office Subscription
+
+
+## Learning Materials, Books
+
+https://blogs.msdn.microsoft.com/microsoft_press/2016/06/16/free-ebook-introducing-microsoft-power-bi/
+
+https://docs.microsoft.com/en-us/power-bi/desktop-getting-started
+
+Free Online Book(so careful) - http://radacad.com/online-book-power-bi-from-rookie-to-rockstar
+
+[Power Pivot and Power BI](https://www.amazon.com/Power-Pivot-BI-Excel-2010-2016/dp/1615470395) - good reviews
+
+
+[Analyzing Data with Power BI and Power Pivot for Excel](https://www.amazon.com/gp/product/150930276X)
+
+https://msdn.microsoft.com/en-us/query-bi/dax/data-analysis-expressions-dax-reference
+
+DAX with Power BI
+https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics
+
+
+
 
 
