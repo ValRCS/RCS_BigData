@@ -4,6 +4,8 @@
 
 https://powerbi.microsoft.com/en-us/
 
+![PowerBiVisual](https://docs.microsoft.com/en-us/power-bi/guided-learning/includes/media/0-0-what-is-power-bi/c0a0_1.png)
+
 
 ### 
 Started inhouse in 2006 (Project Gemin)
