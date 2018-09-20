@@ -6,7 +6,7 @@ https://powerbi.microsoft.com/en-us/
 
 
 ### 
-Stated inhouse in 2006 (Project Gemin)
+Started inhouse in 2006 (Project Gemin)
 
 Popular with Excel and SQl crowd at Microsoft
 
@@ -20,7 +20,7 @@ Infographics are more of an artistic expression with data skillfully woven throu
 
 Data visualizations are more of a data foundation with a pre-fab artistic element layered on top.
 
-#Power BI is used to make Data Visualizations, not Infographics.
+# Power BI is used to make Data Visualizations, not Infographics.
 
 
 ## Pricing
