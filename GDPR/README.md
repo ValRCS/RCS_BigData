@@ -8,6 +8,8 @@ https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regula
 
 http://www.dvi.gov.lv/en/
 
+![GDPR](general-data-protection-reg-08f4dd1a3de046eda1d2e5c85a488644.jpg)
+
 
 ## What Data is covered by GDPR?
 
@@ -33,7 +35,14 @@ Properly pseudo-anonymized personal data, data about everything else(weather, in
 
 * Opt-in ONLY Ask not assume consent!
 * Granular strongly preferred
-* 
+
+1.The vital interest of the individual
+2.The public interest
+3.Contractual necessity
+4.Compliance with legal obligations
+5.Unambiguous consent of the individual - THE Opt-IN mentioned
+6.Legitimate interest of the data controller
+
 
 ## Data Wrangling and Feature Engineering
 
