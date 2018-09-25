@@ -36,12 +36,14 @@ Properly pseudo-anonymized personal data, data about everything else(weather, in
 * Opt-in ONLY Ask not assume consent!
 * Granular strongly preferred
 
-1.The vital interest of the individual
-2.The public interest
-3.Contractual necessity
-4.Compliance with legal obligations
-5.Unambiguous consent of the individual - THE Opt-IN mentioned
-6.Legitimate interest of the data controller
+1. The vital interest of the individual
+2. The public interest
+3. Contractual necessity
+4. Compliance with legal obligations
+5. Unambiguous consent of the individual - THE Opt-IN mentioned
+6. Legitimate interest of the data controller
+
+**bundling** a big no no now - can't require consent for unrelated purposes
 
 
 ## Data Wrangling and Feature Engineering
@@ -56,6 +58,10 @@ GDPR limits prediction/profiling based on personal data revealing racial or ethn
 ## Modelling Explanation
 
 According to the GDPR owner’s rights, the data subject (the user/customer) has the **right to explanation**. For machine learning, this refers to the fact that the data processor must provide meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+
+The data subject should have the right not to be subject to a decision, which may include a measure, evaluating personal aspects relating to him or her which is based solely on automated processing and which produces legal effects concerning him or her or similarly significantly affects him or her, such as automatic refusal of an online credit application or e-recruiting practices without any human intervention.
+
+**not really tested yet in courts** but assumed to refer to loan decisions, school admissions and similar important decisions.
 
 ## Deployment, Retraining, and Model Update
 
@@ -77,4 +83,12 @@ https://noyb.eu/ - Austrian activist filed in May of 2018 against Google,Faceboo
 # Big Data and Ethics
 
 https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+
+
+# Summary
+
+* ask for consent
+* use only what you need
+* anonymize
+* protect/encrypt
 
