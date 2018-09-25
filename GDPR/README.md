@@ -45,6 +45,8 @@ Properly pseudo-anonymized personal data, data about everything else(weather, in
 
 **bundling** a big no no now - can't require consent for unrelated purposes
 
+example - store can require permission to provide your info to delivery service, but can't require you giving your personal data to another store or unrelated service. Have to ask for this separately
+
 
 ## Data Wrangling and Feature Engineering
 
